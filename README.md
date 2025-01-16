@@ -45,7 +45,7 @@ Google Fonts	Stylish typography (Ubuntu).
 
 🌍 Live Demo
 
-  Check out the live demo here: Live Dashboard <!-- Add the live project URL -->
+  Check out the live demo here: Live Dashboard <https://akashvim3.github.io/Responsive-Admin-Dashboard/>
 
   🛡️ License
 
